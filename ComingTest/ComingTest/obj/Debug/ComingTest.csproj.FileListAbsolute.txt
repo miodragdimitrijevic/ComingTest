@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\ComingTest\ComingTest\bin\Debug\ComingTest.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\ComingTest\ComingTest\bin\Debug\ComingTest.exe
+c:\users\pc\documents\visual studio 2015\Projects\ComingTest\ComingTest\bin\Debug\ComingTest.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ComingTest\ComingTest\obj\Debug\ComingTest.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\ComingTest\ComingTest\obj\Debug\ComingTest.exe
+c:\users\pc\documents\visual studio 2015\Projects\ComingTest\ComingTest\obj\Debug\ComingTest.pdb
