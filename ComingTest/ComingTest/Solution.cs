@@ -29,7 +29,7 @@ namespace ComingTest
         {
             int minimum = min(A);
             bool flag = false;
-            minimum++;
+            
             while (flag == false)
             {
                 if (!isMemberofArray(minimum, A))

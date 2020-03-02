@@ -4,3 +4,9 @@ c:\users\pc\documents\visual studio 2015\Projects\ComingTest\ComingTest\bin\Debu
 c:\users\pc\documents\visual studio 2015\Projects\ComingTest\ComingTest\obj\Debug\ComingTest.csprojResolveAssemblyReference.cache
 c:\users\pc\documents\visual studio 2015\Projects\ComingTest\ComingTest\obj\Debug\ComingTest.exe
 c:\users\pc\documents\visual studio 2015\Projects\ComingTest\ComingTest\obj\Debug\ComingTest.pdb
+C:\Users\pc\Documents\GitHub\ComingTest\ComingTest\ComingTest\bin\Debug\ComingTest.exe.config
+C:\Users\pc\Documents\GitHub\ComingTest\ComingTest\ComingTest\obj\Debug\ComingTest.exe
+C:\Users\pc\Documents\GitHub\ComingTest\ComingTest\ComingTest\obj\Debug\ComingTest.pdb
+C:\Users\pc\Documents\GitHub\ComingTest\ComingTest\ComingTest\bin\Debug\ComingTest.exe
+C:\Users\pc\Documents\GitHub\ComingTest\ComingTest\ComingTest\bin\Debug\ComingTest.pdb
+C:\Users\pc\Documents\GitHub\ComingTest\ComingTest\ComingTest\obj\Debug\ComingTest.csprojResolveAssemblyReference.cache
